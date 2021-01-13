@@ -1,0 +1,37 @@
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\MVC AspNet Core.exe
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\MVC AspNet Core.deps.json
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\MVC AspNet Core.runtimeconfig.json
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\MVC AspNet Core.runtimeconfig.dev.json
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\MVC AspNet Core.dll
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\MVC AspNet Core.pdb
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\MVC AspNet Core.Views.dll
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\bin\Debug\netcoreapp3.1\MVC AspNet Core.Views.pdb
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.csprojAssemblyReference.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.AssemblyInfoInputs.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.AssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.csproj.CoreCompileInputs.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.RazorAssemblyInfo.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.RazorAssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.TagHelpers.input.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.TagHelpers.output.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.RazorCoreGenerate.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.RazorTargetAssemblyInfo.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.RazorTargetAssemblyInfo.cs
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.Views.pdb
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\staticwebassets\MVC AspNet Core.StaticWebAssets.Manifest.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\staticwebassets\MVC AspNet Core.StaticWebAssets.xml
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.dll
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.pdb
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.genruntimeconfig.cache
+C:\Users\caisb\OneDrive\Desktop\MVC AspNet Core\obj\Debug\netcoreapp3.1\MVC AspNet Core.csproj.CopyComplete
